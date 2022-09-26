@@ -11,9 +11,9 @@ public class Main {
         }
 
 
-        System.out.println("вы пополнили счёт на " + added);
-        System.out.println("размер бонуса составляет " + bonus);
-        System.out.println("текущий баланс счёта: " + (current + added + bonus));
+        System.out.println("Вы пополнили счёт на " + added);
+        System.out.println("Размер бонуса составляет " + bonus);
+        System.out.println("Текущий баланс счёта: " + (current + added + bonus));
 
     }
 }
